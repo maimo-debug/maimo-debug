@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maimo%20Haut%20Ellip&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Maimo%20Haut%20Ellip&fontSize=50&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55)
 ## Hi there 👋, I'm Maimo Haut Ellip
 
 ## 👨‍💻 About Me
