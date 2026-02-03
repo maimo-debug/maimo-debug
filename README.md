@@ -41,5 +41,5 @@ Coming soon! Check back for my latest embedded systems and hardware projects.
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maimo-debug&layout=compact&theme=tokyonight)](https://github.com/maimo-debug)
 
 ## 📫 Let's Connect!
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/maimo-debug)
+[![GitHub](https://img.shields.io/badge/GitHub-maimo--debug-181717?style=for-the-badge&logo=github)](https://github.com/maimo-debug)
 [![Email](https://img.shields.io/badge/Email-mhautellip@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhautellip@gmail.com)
