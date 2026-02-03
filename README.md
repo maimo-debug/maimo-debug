@@ -20,9 +20,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-**Systems & Tools:**  
-Linux, Git, CMake, Quartus, ModelSim, SolidWorks
-
 **Domains:**  
 Computer Architecture, Digital Logic, Embedded Systems, Low-level Systems Programming
 
@@ -33,8 +30,8 @@ Computer Architecture, Digital Logic, Embedded Systems, Low-level Systems Progra
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maimo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maimo&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maimo-debug&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maimo-debug0&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-maimo-181717?style=for-the-badge&logo=github)](https://github.com/maimo)
