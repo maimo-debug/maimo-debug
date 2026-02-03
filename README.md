@@ -35,5 +35,5 @@ Computer Architecture, Digital Logic, Embedded Systems, Low-level Systems Progra
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maimo-debug&layout=compact&theme=tokyonight)](https://github.com/maimo-debug)
 
 ## 📫 Let's Connect!
-[![GitHub](https://img.shields.io/badge/GitHub-maimo-181717?style=for-the-badge&logo=github)](https://github.com/maimo)
+[![GitHub](https://img.shields.io/badge/GitHub-maimo-debug-181717?style=for-the-badge&logo=github)](https://github.com/maimo)
 [![Email](https://img.shields.io/badge/Email-mhautellip@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhautellip@gmail.com)
